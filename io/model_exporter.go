@@ -1,8 +1,8 @@
 package io
 
 import (
-    "github.com/dalmirdasilva/GoAdaboostClassifier/static/model"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/classifier"
+    "github.com/dalmirdasilva/AdaBoostGo/static/model"
+    "github.com/dalmirdasilva/AdaBoostGo/classifier"
     "github.com/golang/protobuf/proto"
     "encoding/json"
     "io/ioutil"

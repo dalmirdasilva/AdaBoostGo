@@ -1,8 +1,8 @@
 package classifier
 
 import (
-    "github.com/dalmirdasilva/GoAdaboostClassifier/statistics"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/config"
+    "github.com/dalmirdasilva/AdaBoostGo/statistics"
+    "github.com/dalmirdasilva/AdaBoostGo/config"
     "math/rand"
     "math"
     "log"

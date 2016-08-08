@@ -1,10 +1,10 @@
 package evaluation
 
 import (
-    "github.com/dalmirdasilva/GoAdaboostClassifier/classifier"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/config"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/statistics"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/utils"
+    "github.com/dalmirdasilva/AdaBoostGo/classifier"
+    "github.com/dalmirdasilva/AdaBoostGo/config"
+    "github.com/dalmirdasilva/AdaBoostGo/statistics"
+    "github.com/dalmirdasilva/AdaBoostGo/utils"
     "math"
 )
 

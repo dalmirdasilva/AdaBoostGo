@@ -1,12 +1,11 @@
 package main
 
 import (
-    "github.com/dalmirdasilva/GoAdaboostClassifier/classifier"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/evaluation"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/statistics"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/config"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/utils"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/io"
+    "github.com/dalmirdasilva/AdaBoostGo/classifier"
+    "github.com/dalmirdasilva/AdaBoostGo/evaluation"
+    "github.com/dalmirdasilva/AdaBoostGo/statistics"
+    "github.com/dalmirdasilva/AdaBoostGo/config"
+    "github.com/dalmirdasilva/AdaBoostGo/utils"
     "math/rand"
     "time"
     "fmt"
@@ -20,14 +19,6 @@ func main() {
     trainingDataFilePath := os.Args[1]
 
     samples := utils.ReadSamples(trainingDataFilePath)
-
-    for _, sample := range samples {
-        if sample[len(sample) - 1] > 5 {
-            sample[len(sample) - 1] = 1
-        } else {
-            sample[len(sample) - 1] = -1
-        }
-    }
 
     numberOfSamples := len(samples)
     if numberOfSamples < 1 {
@@ -65,9 +56,9 @@ func main() {
     //}
     //
     ////
-    for _, weakClassifier := range adaBoost.WeakClassifiers {
-        fmt.Println(weakClassifier.String())
-    }
+    //for _, weakClassifier := range adaBoost.WeakClassifiers {
+    //    fmt.Println(weakClassifier.String())
+    //}
 
     //var variableRelations []statistics.VariableRelations
     //for i := 0; i < numberOfFeatures; i++ {
@@ -89,7 +80,7 @@ func main() {
     //    fmt.Println(string(b) + ", ")
     //}
     //
-    me := io.NewModelExporter()
-    //me.ExportToProto("/tmp/proto.bin", adaBoost, uint(numberOfFeatures))
-    me.ExportToJSON("/tmp/proto.json", adaBoost, uint(numberOfFeatures))
+    //me := io.NewModelExporter()
+    ////me.ExportToProto("/tmp/proto.bin", adaBoost, uint(numberOfFeatures))
+    //me.ExportToJSON("/tmp/proto.json", adaBoost, uint(numberOfFeatures))
 }

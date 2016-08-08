@@ -1,9 +1,9 @@
 package classifier
 
 import (
-    "github.com/dalmirdasilva/GoAdaboostClassifier/statistics"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/resample"
-    "github.com/dalmirdasilva/GoAdaboostClassifier/config"
+    "github.com/dalmirdasilva/AdaBoostGo/statistics"
+    "github.com/dalmirdasilva/AdaBoostGo/resample"
+    "github.com/dalmirdasilva/AdaBoostGo/config"
     "math"
     "fmt"
 )

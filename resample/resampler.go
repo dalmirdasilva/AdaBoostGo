@@ -1,7 +1,7 @@
 package resample
 
 import (
-    "github.com/dalmirdasilva/GoAdaboostClassifier/statistics"
+    "github.com/dalmirdasilva/AdaBoostGo/statistics"
     "math"
 )
 

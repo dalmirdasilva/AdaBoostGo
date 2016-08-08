@@ -36,11 +36,10 @@
       <root url="file://$PROJECT_DIR$/../GoCourse/.idea" />
       <root url="file://$PROJECT_DIR$/../PrintXBayesianClassifier/.idea" />
       <root url="file://$PROJECT_DIR$/../Counterrevolution/.idea" />
-      <root url="file://$PROJECT_DIR$/.idea" />
       <root url="file://$PROJECT_DIR$/../../../gopkg.in/mgo.v2/.git" />
       <root url="file://$PROJECT_DIR$/../../jinzhu/gorm/.git" />
       <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/AdaBoostChromiumClassifier/.git" />
-      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../GoAdaboostClassifier/.idea" />
       <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/GoForTheWin/.idea" />
       <root url="file://$PROJECT_DIR$/../../revel/revel/modules/.git" />
       <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/.git" />
@@ -51,11 +50,14 @@
       <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/GoForTheWin/.git" />
       <root url="file://$PROJECT_DIR$/../../revel/modules/.git" />
       <root url="file://$PROJECT_DIR$/../../garyburd/redigo/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/.git" />
       <root url="file://$PROJECT_DIR$/../../lib/pq/.git" />
       <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go.net/html/testdata" />
       <root url="file://$PROJECT_DIR$/../../bradfitz/gomemcache/.git" />
       <root url="file://$PROJECT_DIR$/../../revel/revel/.git" />
       <root url="file://$PROJECT_DIR$/../../yvasiyarov/newrelic_platform_go/.git" />
+      <root url="file://$PROJECT_DIR$/.idea" />
       <root url="file://$PROJECT_DIR$/../DomDistillerClassifierLearner/.idea" />
       <root url="file://$PROJECT_DIR$/../CartolaMachineLearning/.idea" />
       <root url="file://$PROJECT_DIR$/../../moovweb/gokogiri/.git" />
