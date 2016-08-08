@@ -1,0 +1,90 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;AdaboostClassifier&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../code.google.com" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../printx_render" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../robfig/cron/.git" />
+      <root url="file://$PROJECT_DIR$/../AdaboostClassifier/.idea" />
+      <root url="file://$PROJECT_DIR$/../../yvasiyarov/gorelic/.git" />
+      <root url="file://$PROJECT_DIR$/../../../printx_render/.ebextensions" />
+      <root url="file://$PROJECT_DIR$/../../onsi/ginkgo/.git" />
+      <root url="file://$PROJECT_DIR$/../../revel/cmd/.git" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/DomDistillerClassifierLearner/.idea" />
+      <root url="file://$PROJECT_DIR$/../../mattn/go-sqlite3/_example" />
+      <root url="file://$PROJECT_DIR$/../../golang/protobuf/.git" />
+      <root url="file://$PROJECT_DIR$/../TransporteEscolarSeguro/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../jinzhu/inflection/.git" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/DomDistillerClassifierLearner/.git" />
+      <root url="file://$PROJECT_DIR$/../../mattn/go-sqlite3/.git" />
+      <root url="file://$PROJECT_DIR$/../../nu7hatch/gouuid/.git" />
+      <root url="file://$PROJECT_DIR$/../NeoResistance/.idea" />
+      <root url="file://$PROJECT_DIR$/../GoForTheWin/.idea" />
+      <root url="file://$PROJECT_DIR$/../LearningGeneticAlgorithm/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../DomPiano/.idea" />
+      <root url="file://$PROJECT_DIR$/../NeoResistence/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/AdaBoostChromiumClassifier/.idea" />
+      <root url="file://$PROJECT_DIR$/../GoCourse/.idea" />
+      <root url="file://$PROJECT_DIR$/../PrintXBayesianClassifier/.idea" />
+      <root url="file://$PROJECT_DIR$/../Counterrevolution/.idea" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in/mgo.v2/.git" />
+      <root url="file://$PROJECT_DIR$/../../jinzhu/gorm/.git" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/AdaBoostChromiumClassifier/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/GoForTheWin/.idea" />
+      <root url="file://$PROJECT_DIR$/../../revel/revel/modules/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/GsmTracking/.git" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/GsmTracking/.idea" />
+      <root url="file://$PROJECT_DIR$/../../mxk/go-sqlite/.git" />
+      <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go.net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org/dalmirdasilva/GoForTheWin/.git" />
+      <root url="file://$PROJECT_DIR$/../../revel/modules/.git" />
+      <root url="file://$PROJECT_DIR$/../../garyburd/redigo/.git" />
+      <root url="file://$PROJECT_DIR$/../../lib/pq/.git" />
+      <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go.net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../../bradfitz/gomemcache/.git" />
+      <root url="file://$PROJECT_DIR$/../../revel/revel/.git" />
+      <root url="file://$PROJECT_DIR$/../../yvasiyarov/newrelic_platform_go/.git" />
+      <root url="file://$PROJECT_DIR$/../DomDistillerClassifierLearner/.idea" />
+      <root url="file://$PROJECT_DIR$/../CartolaMachineLearning/.idea" />
+      <root url="file://$PROJECT_DIR$/../../moovweb/gokogiri/.git" />
+      <root url="file://$PROJECT_DIR$/../../jbrukh/bayesian/.git" />
+      <root url="file://$PROJECT_DIR$/../DomDistillerClassifierLearner/.git" />
+      <root url="file://$PROJECT_DIR$/../../IPGPTP/printx_render/.git" />
+      <root url="file://$PROJECT_DIR$/../../onsi/gomega/gexec/_fixture" />
+      <root url="file://$PROJECT_DIR$/../../yvasiyarov/go-metrics/.git" />
+      <root url="file://$PROJECT_DIR$/../../../code.google.com/p/go.net/.hg" />
+      <root url="file://$PROJECT_DIR$/../../agtorre/gocolorize/.git" />
+      <root url="file://$PROJECT_DIR$/../../IPGPTP/printx_render/.idea" />
+      <root url="file://$PROJECT_DIR$/../../IPGPTP/printx_render/.ebextensions" />
+      <root url="file://$PROJECT_DIR$/../../robfig/pathtree/.git" />
+      <root url="file://$PROJECT_DIR$/../../onsi/gomega/.git" />
+      <root url="file://$PROJECT_DIR$/../../golang/protobuf/protoc-gen-go/testdata" />
+      <root url="file://$PROJECT_DIR$/../../go-gl/gl/.git" />
+      <root url="file://$PROJECT_DIR$/../../robfig/go-cache/.git" />
+      <root url="file://$PROJECT_DIR$/../../IPGPTP/GoCourse/.idea" />
+      <root url="file://$PROJECT_DIR$/../SimplifyClassifier/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in/fsnotify.v1/.git" />
+      <root url="file://$PROJECT_DIR$/../../../printx_render/.git" />
+      <root url="file://$PROJECT_DIR$/../../robfig/config/testdata" />
+      <root url="file://$PROJECT_DIR$/../TransporteEscolarSeguro/.git" />
+      <root url="file://$PROJECT_DIR$/../../revel/revel/testdata" />
+      <root url="file://$PROJECT_DIR$/../../robfig/config/.git" />
+      <root url="file://$PROJECT_DIR$/../DomDistillerClassifierLearner/SimplifyClassifier/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../printx_render/.idea" />
+      <root url="file://$PROJECT_DIR$/../../onsi/ginkgo/integration/_fixtures" />
+      <root url="file://$PROJECT_DIR$/../../golang/protobuf/proto/testdata" />
+    </excluded>
+  </library>
+</component>
