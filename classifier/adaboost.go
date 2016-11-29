@@ -94,8 +94,6 @@ func (c *AdaBoost) Train(samples [][]float64) {
     // Build T classifiers.
     for i := uint(0); i < c.numberOfClassifiers; i++ {
 
-        fmt.Println("boom")
-
         // Call the learner and receive the built classifier.
         weakClassifier := c.weakLearner.GenerateWeakClassifier(samples, c.weights)
 
